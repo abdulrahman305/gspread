@@ -4,3 +4,4 @@ vcrpy
 pytest
 pytest-vcr
 urllib3==1.26.15
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
